@@ -28,6 +28,6 @@ This project contains the backend implementation of the Nooro hiring task. The a
 - Run the development server
   ```bash
   npm run dev
-- The application should now be running locally. You can view it in your browser at http://localhost:5000
+- The application should now be running locally on port 5000
 
 
