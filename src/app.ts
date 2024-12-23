@@ -4,9 +4,6 @@ import { errorHandler } from "./middlewares/error-handlers";
 import cors from "cors";
 import { taskRouter } from "./routes/tasks";
 import { NotFoundError } from "./errors/not-found-error";
-import dotenv from "dotenv";
-
-dotenv.config();
 
 const app = express();
 
