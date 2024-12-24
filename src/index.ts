@@ -2,7 +2,7 @@ import { ConnectDB } from "./db/connect-db";
 import { app } from "./app";
 import { PrismaClient } from "@prisma/client";
 
-const PORT = 5000;
+const PORT = 5001;
 
 let db: PrismaClient;
 
